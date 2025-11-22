@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GameProject/M01_GideonM/Content/Maps/TestEnviroment.umap",
+				"D:/GameProject/M01_GideonM/Content/Inputs/Input_Movement.uasset",
+				"D:/GameProject/M01_GideonM/Content/Inputs/Mapping_Player.uasset",
+				"D:/GameProject/M01_GideonM/Content/Player/BP_GameMode.uasset",
+				"D:/GameProject/M01_GideonM/Content/Player/BP_Player.uasset",
+				"D:/GameProject/M01_GideonM/Content/Player/BP_PlayerCont.uasset",
+				"D:/GameProject/M01_GideonM/Content/Inputs/Input_Interact.uasset",
+				"D:/GameProject/M01_GideonM/Content/Inputs/Input_Jump.uasset",
+				"D:/GameProject/M01_GideonM/Content/Inputs/Input_Look.uasset",
+				"D:/GameProject/M01_GideonM/Content/Player/BP_PlayerChar.uasset",
+				"D:/GameProject/M01_GideonM/Content/Interactables/Interact.uasset",
+				"D:/GameProject/M01_GideonM/Content/Interfaces/Interface_Interact.uasset",
+				"D:/GameProject/M01_GideonM/Content/Interactables/BP_CollectiblePickup.uasset",
+				"D:/GameProject/M01_GideonM/Content/Interactables/BP_PhysicsPickup.uasset"
+			]
+		}
+	]
+}
